@@ -2,15 +2,15 @@
 
 # Welcome! 👋
 
-## To run the chat
+## To run chat
 
 after start Apache and mySql
 
-1- donload the file
-2- create database and name it chat
-3- create a table and named it chatroom
-4- create four column (id,name,msg,date)
-5- open the index.php file in two tabs to see the output
+- donload the file
+- create database and name it chat
+- create a table and named it chatroom
+- create four column (id,name,msg,date)
+- open the index.php file in two tabs to see the output
 
 ### Built with
 
