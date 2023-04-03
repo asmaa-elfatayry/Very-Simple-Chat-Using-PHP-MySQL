@@ -4,7 +4,7 @@
 
 ## To run chat
 
-after start Apache and mySql
+after starting Apache and mySql
 
 - donload the file
 - create database and name it chat
